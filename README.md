@@ -8,7 +8,7 @@ Then uses simulation data to generate a bode plot
   
   Simulation (DFT) Output
   <img src="https://github.com/black3037/Bode-Plot-Generator-from-the-Discrete-Fourier-Transform/blob/master/Resources/Simulation_Output.png" alt="simout"/>
-  
   Bode Output
+  
   <img src="https://github.com/black3037/Bode-Plot-Generator-from-the-Discrete-Fourier-Transform/blob/master/Resources/Bode_Output.png" alt="bode"/>
 </p>
